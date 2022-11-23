@@ -14,7 +14,8 @@ cd CCTV-R
 chmod +x *
 
 python CCTV-R.py
-#📌
+
+# 📌
 USERNAME:R1F4T
 PASSWORD:R1T8
 
