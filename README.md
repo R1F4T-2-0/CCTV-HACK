@@ -9,11 +9,11 @@ pkg install git
 
 git clone https://github.com/R1F4T-2-0/CCTV-HACK
 
-cd CCTV-R
+cd CCTV-HACK
 
 chmod +x *
 
-python CCTV-R.py
+python CCTV-HACK.py
 
 # 📌
 USERNAME:R1F4T
